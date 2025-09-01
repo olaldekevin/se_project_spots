@@ -1,21 +1,28 @@
-# Project 3: Spots
+# Spots
 
-### Overview  
+## Description
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+Spots is a responsive web application that displays a collection of beautiful locations as cards. Users can view, like, and add new spots. The layout adapts seamlessly to desktop, tablet, and mobile devices, following a Figma design.
+
+## Features
+
+- Responsive design for desktop, tablet, and mobile
+- Card grid with images and descriptions
+- Profile section with editable user info
+- Add new spot functionality
+- Like button for each card
+
+## Technologies & Techniques Used
+
+- HTML5, CSS3 (Flexbox, Grid, media queries)
+- BEM methodology for CSS class naming
+- Figma for design reference
+- Git & GitHub for version control
+
+## Live Demo
+
+[View the deployed project on GitHub Pages](https://YOUR_GITHUB_USERNAME.github.io/se_project_spots/)
+
+## Figma
+
+[Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
