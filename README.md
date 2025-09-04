@@ -21,8 +21,10 @@ Spots is a responsive web application that displays a collection of beautiful lo
 
 ## Live Demo
 
-[View the deployed project on GitHub Pages](https://YOUR_GITHUB_USERNAME.github.io/se_project_spots/)
+[View the deployed project on GitHub Pages](https://olaldekevin.github.io/se_project_spots/)
 
 ## Figma
 
 [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+
+[link to video](https://docs.google.com/videos/d/1boj0XsVPdNqhgPB1W8qGkDJY3NWbhw5r8WNhyGPxXjA/edit?usp=sharing)

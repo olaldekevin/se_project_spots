@@ -1,7 +1,7 @@
 .footer {
   display: flex;
   justify-content: center;
-  margin-top: 60px;
+  padding: 60px 0;
 }
 
 .footer__text {
@@ -11,5 +11,4 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 100%;
-  letter-spacing: 0%;
 }
