@@ -28,3 +28,5 @@ Spots is a responsive web application that displays a collection of beautiful lo
 [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
 [link to video](https://docs.google.com/videos/d/1boj0XsVPdNqhgPB1W8qGkDJY3NWbhw5r8WNhyGPxXjA/edit?usp=sharing)
+
+(mic was working on my end half way through it stops picking up its strange it doesnt come through on your end)
